@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dolor": "^0.2.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ndlovini/soft-dev-3-lab1.git"
+  },
+  "author": "Ndaba Ndlovu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndlovini/soft-dev-3-lab1/issues"
+  },
+  "homepage": "https://github.com/ndlovini/soft-dev-3-lab1#readme"
+}
